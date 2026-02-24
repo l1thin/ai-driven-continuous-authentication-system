@@ -3,9 +3,9 @@ import time
 import json
 import os
 
-from collector.keystroke_logger import start_logger
-from collector.mouse_logger import start_mouse_logger
-from collector import shared_state
+from keystroke_logger import start_logger
+from mouse_logger import start_mouse_logger
+import shared_state
 
 # ---------------- THRESHOLDS ---------------- #
 

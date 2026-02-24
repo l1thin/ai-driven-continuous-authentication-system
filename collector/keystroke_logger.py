@@ -2,7 +2,7 @@ import os
 import time
 import pandas as pd
 from pynput import keyboard
-from collector import shared_state
+import shared_state
 
 # ---------------- PATH SETUP ---------------- #
 
