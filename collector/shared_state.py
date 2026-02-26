@@ -13,3 +13,5 @@ click_count = 0
 
 # Stop signal
 stop_collection = False
+#SHORTCUT COUNT
+shortcut_count = 0
